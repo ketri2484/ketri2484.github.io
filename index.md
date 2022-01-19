@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/ketri2484/ketri2484.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 이티보드 아두이노 파헤치기
-[1_Led 키기](https://https://github.com/ketri2484/ET-Board_Arduino_Level2/tree/master/src/01_led/01._led_one_blink)
+[1_Led 키기](https://github.com/ketri2484/ET-Board_Arduino_Level2/tree/master/src/01_led/01._led_one_blink)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
